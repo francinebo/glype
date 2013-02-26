@@ -1,0 +1,4 @@
+web1: #component type & number
+  shared_writable_dirs:
+    - tmp
+    - includes
