@@ -271,4 +271,3 @@ $CONFIG['version'] = '1.3';
 // Anything below this line will be preserved when the admin control panel rewrites
 // the settings. Useful for storing settings that don't/can't be changed from the control panel
 
-$adminDetails['abandonab'] = '4bdc809b37a11e5f67aae4e785796f8e';
